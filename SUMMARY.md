@@ -1,6 +1,6 @@
 # SUMMARY
 
-* [前言](README.md)
+* [序言](README.md)
 * [科学历史观的标准](content/chapter-01.md)
 * [历史的自然条件](content/chapter-02.md)
 * [架空式的思考方式](content/chapter-03.md)

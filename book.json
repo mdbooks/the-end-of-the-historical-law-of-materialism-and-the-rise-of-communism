@@ -1,0 +1,35 @@
+{
+    "gitbook": ">=3.1.0",
+    "title": "唯物主义历史规律的结束与共产主义的兴起",
+    "description": "唯物主义历史规律的结束与共产主义的兴起",
+    "output": "docs",
+    "generator": "site",
+    "structure": {
+        "readme": "README.md"
+    },
+    "plugins": [
+        "-search",
+        "mathjax",
+        "splitter",
+        "codeblock-filename",
+        "theme-comscore"
+    ],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "sepia",
+            "family": "serif",
+            "size": 1
+        },
+        "theme-default": {
+            "showLevel": true
+        }
+    },
+    "links": {
+        "sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false,
+            "all": false
+        }
+    }
+}
